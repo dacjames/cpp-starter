@@ -1,0 +1,12 @@
+[submodule "dep/catch"]
+	path = dep/catch
+	url = https://github.com/catchorg/Catch2.git
+	branch = v2.0.1
+[submodule "dep/spdlog"]
+	path = dep/spdlog
+	url = https://github.com/gabime/spdlog.git
+	branch = v0.14.0
+[submodule "dep/pybind11"]
+	path = dep/pybind11
+	url = https://github.com/pybind/pybind11.git
+	branch = v2.2.1
